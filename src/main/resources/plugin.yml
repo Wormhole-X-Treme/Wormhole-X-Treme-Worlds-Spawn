@@ -1,0 +1,13 @@
+name: WormholeXTremeWorldsSpawn
+main: com.wormhole_xtreme.worlds_spawn.WormholeXTremeWorldsSpawn
+version: 0.1
+author: alron
+depend: [WormholeXTremeWorlds]
+description: >
+             Wormhole X-Treme Worlds Spawn! '/spawn' command for Wormhole X-Treme Worlds!
+             
+commands:
+  spawn:
+    description: Teleport to Wormhole World spawn.
+    usage: |
+           /<command>
